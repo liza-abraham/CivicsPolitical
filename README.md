@@ -8,3 +8,4 @@ The data was drawn from Cooperative Congressional Election Study (CCES), one of 
 
 We will refine the data for the most recent survey year (2018), which indicates presidential choice for 2016. Using R and machine learning, we will develop a predictive model for presidential choice. 
 
+We will divide 80% of the data into a “training section.” We will then use the remaining 20% for the “test” section of data. 
